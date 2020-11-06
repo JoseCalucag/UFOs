@@ -3,7 +3,7 @@
 <img src = "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2017/04/22/568037-x-files-2016-crop.jpg">
 </p>
  
-<h2>Overview of Project</h2><br>
+<h2>Overview of Project</h2>
 This is a website that allows you to search through numerous accounts of ufo sightings in the US during 1/1/2010-1/13/2010. It's intended to be used as a tool so you can input criteria into various fields to filter for a more in-depth analysis. 
 <br>
 
@@ -27,5 +27,5 @@ You can refine your search by using multiple search filters. In this example, we
 
 <h2>Summary</h2>
 Albeit the website's strength is in it's simplicity of design, it does present some flaws most notably when it comes to the comments section. There's a lot of information in there that the user can drill down for further analysis. For instance, why not be able to search the comments for specific information (i.e. colours, shapes, 'fireball'). Better still, based upon the comments, we can create new columns like one that searches for specific times or a Boolean column to search if there was an audio element with the encounter. <br>
-
+<br>
 So, even though this is a good start, we can definitely refine further to get better data.
