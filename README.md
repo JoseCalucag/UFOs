@@ -8,12 +8,11 @@ This is a website that allows you to search through numerous accounts of ufo sig
 <br>
 
 <h2>How to Use</h2>
+When you go onto the website, bring your focus to the bottom of the page where you'll see 5 search filters: Date, City, State, Country and Shape (meaning 'the shape of the UFO'). By adding a filtering point into any of the fields, you then press the Enter and  will see the filtered data to the right of the search. <br>
+<br>
 <p align = "center">
 <img src = "https://github.com/JoseCalucag/UFOs/blob/main/pics/pics1.png" height=250 width=300>
 </p>
-When you go onto the website, bring your focus to the bottom of the page where you'll see 5 search filters: Date, City, State, Country and Shape (meaning 'the shape of the UFO'). By adding a filtering point into any of the fields, you then press the Enter and  will see the filtered data to the right of the search. <br>
-<br>
-
 For instance, in our first example, we are filtering for sightings that occured on January 4th (1/4/2010).
 <p align = "center">
 <img src = "https://github.com/JoseCalucag/UFOs/blob/main/pics/search%20jan4.png">
